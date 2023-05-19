@@ -1,4 +1,4 @@
-# Daniel Usanzimfura's Portofolio
+# Daniel Usanzimfura's Portfolio
 ## About me 
 I am a passionate Data analyst with more than 5 years of work experience in data management. Experienced in collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understand of platforms for effective data analyses, including SQL, spreadsheets, R, Tableau and Python. 
 My highest ambition is to use my knowledge and inspire organizations to make better and data driven decisions. 
