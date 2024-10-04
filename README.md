@@ -4,6 +4,7 @@ A versatile Data Scientist with skills in Regression and Classification modeling
 My highest ambition is to use my knowledge and inspire organizations to make better but also data driven decisions. 
 
 # [Project 1. Employee Attrition Prediction](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
+Predicted employee attrition at McCurr Health Consultancy to help reduce employee retention costs by targeting incentives only to employees at risk of leaving.
 
 # [Project 1. BellaBeat Capstone](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
 ### How a wellness technology can play it smart
