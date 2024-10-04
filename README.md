@@ -6,7 +6,7 @@ My highest ambition is to use my knowledge and inspire organizations to make bet
 # [Project 1. Employee Attrition Prediction](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
 Predicted employee attrition at McCurr Health Consultancy to help reduce employee retention costs by limiting incentives only to employees who are at risk of leaving the organization.
 
-# [Project 2. BellaBeat Wellness smart devices analysis Capstone](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
+# [Project 2. BellaBeat Wellness smart devices analysis](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
 Analyzed Bellabeat smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, provided high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
 # [Project 2. Insight on World Health and Economics in the past 5 decades](https://www.kaggle.com/code/udanny/insight-on-world-health-and-economics)
