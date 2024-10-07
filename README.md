@@ -1,7 +1,7 @@
 # Daniel Usanzimfura's Portfolio
 ## About me 
 A versatile Data Scientist with skills in Regression and Classification modeling, Network analysis and Deep Learning. Experienced in collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understand of platforms for effective data analyses including Python, R, SQL, Ms Excel,  Power BI and Tableau.
-My highest ambition is to use my knowledge and inspire organizations to make better but also data driven decisions. 
+My highest ambition is to use my Data Science knowledge to inspire organizations and businesses to make better but also data driven decisions. 
 
 # [Project 1. Employee Attrition Prediction](https://github.com/Usanzimfura/Danny-Portofolio/blob/main/Employee_Attrition_Prediction.ipynb)
 Used Classification modeling to Predict employee attrition at McCurr Health Consultancy to help reduce employee retention costs by limiting incentives only to employees who are at risk of leaving the organization.
