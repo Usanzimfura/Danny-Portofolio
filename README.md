@@ -3,6 +3,8 @@
 A versatile Data Scientist with skills in Regression and Classification modeling, Network analysis and Deep Learning. Experienced in collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understand of platforms for effective data analyses including Python, R, SQL, Ms Excel,  Power BI and Tableau.
 My highest ambition is to use my Data Science knowledge to inspire organizations and businesses to make better but also data driven decisions. 
 
+Throughout my constant learning journey, I have worked on many data anaytics and data science projects. Some of those projects are the following:
+
 # [Project 1. FoodHub Order Data Analysis Project](https://github.com/Usanzimfura/Danny-Portofolio/blob/main/Employee_Attrition_Prediction.ipynb)
 Used Python and Statistics to analyze a Food aggregator company data to get insight about the demands of different restaurants in order to to enhance the customer experience.
 
