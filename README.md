@@ -18,5 +18,5 @@ Used R to analyze Bellabeat smart device usage data in order to gain insight int
 Created an interactive Power BI report of MovieLens, an entertaiment company which needs insights on characteristics of the classic movies, user interests and the relationship between user demographics and movie ratings. 
 
 # [Project 5. Insight on World Health and Economics in the past 5 decades](https://www.kaggle.com/code/udanny/insight-on-world-health-and-economics)
-We will analyze the Worldbank data made available to us by Gapminder. We will get insight on changes on Health and Economy which have been happening on our planet in the last 5 decades. We will challenge the missconception of many people who say that the world is divided into the developed world where everything is perfect and the poor world where everything is getting worse.
+ To challenge the misconception of many people who think that the world is sharply divided between prosperous, developed countries where everything runs smoothly and impoverished nations where everything is deteriorating, we analyzed the World Bank data provided by Gapminder, to explore health and economic trends over the past five decades to gain a more accurate picture of global progress.
 
