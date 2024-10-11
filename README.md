@@ -14,7 +14,7 @@ Used Classification modeling to Predict employee attrition at McCurr Health Cons
 # [Project 3. BellaBeat Wellness smart devices analysis](https://www.kaggle.com/code/udanny/bellabeat-capstone-google-analytics-certificate)
 Used R to analyze Bellabeat smart device usage data in order to gain insight into how people are already using their smart devices. Then, using this information, provided high-level recommendations for how these trends can inform Bellabeat marketing strategy.
 
-# [Project 4. MovieLens Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYTY3MjA4OGMtYTEzMi00N2E1LWJjYjYtYWZmMTE5ZTZiNWZkIiwidCI6ImUyOTM5MDk5LWQ4OTQtNGQ3MC1iNjFlLTdiYTgzMWRjN2RkYSJ9)
+# [Project 4. MovieLens Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYTY3MjA4OGMtYTEzMi00N2E1LWJjYjYtYWZmMTE5ZTZiNWZkIiwidCI6ImUyOTM5MDk5LWQ4OTQtNGQ3MC1iNjFlLTdiYTgzMWRjN2RkYSJ9&pageName=ReportSection)
 Created an interactive Power BI report of MovieLens, an entertaiment company which needs insights on characteristics of the classic movies, user interests and the relationship between user demographics and movie ratings. 
 
 # [Project 5. Insight on World Health and Economics in the past 5 decades](https://www.kaggle.com/code/udanny/insight-on-world-health-and-economics)
