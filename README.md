@@ -6,7 +6,7 @@ My highest ambition is to use my Data Science knowledge to inspire organizations
 Throughout my constant learning journey, I have worked on many data anaytics and data science projects. Some of those projects are the following:
 
 # [Project 1. Predicting Potential Customers ](https://github.com/Usanzimfura/Danny-Portofolio/blob/main/Potential_Customers_Prediction.ipynb)
-Used Classification modelling to intentify which leads are more likely to convert to paid custoers based on attributes of leads and their interaction details.
+Used Classification modelling to identify which leads are more likely to convert to paid custoers based on attributes of leads and their interaction details.
 
 # [Project 2. FoodHub Order Data Analysis Project](https://github.com/Usanzimfura/Danny-Portofolio/blob/main/Employee_Attrition_Prediction.ipynb)
 Used Python and Statistics to analyze a Food aggregator company data to get insight about the demands of different restaurants in order to to enhance the customer experience.
